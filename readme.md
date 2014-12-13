@@ -1,20 +1,8 @@
-## PeerChat
+## NU-PCI
 
-PeerChat is a Simple Project for Peer to Peer Video Chat with Node.js and Socket.io.
-Feel Free to commit, Appreciated.
-
+PCI is a project for taking video conferencing and chat.
 
 
-## Watch Live demo at
-
-  - [Check Out Demo](http://peerchat.net/).
-  - Open Browser,
-  - Enter Your name,
-  - Enter Room Name,
-  - Open Another Browser
-  - Enter Name
-  - Enter Same room name which entered before
-  - And You Go....
 
 ## If you want to run on your server
 
@@ -26,9 +14,6 @@ Feel Free to commit, Appreciated.
   - Open localhost:3000
   - And You Go....
 
-## Authors
-
-* Hiren Kavad
 
 ## License
 

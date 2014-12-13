@@ -1,9 +1,9 @@
 {
-  "name": "PCI",
+  "name": "pci-NU",
   "version": "0.0.1",
-  "description": "NU-PCI",
+  "description": "pci-NU",
   "main": "index.html",
-  "author": "https://github.com/",
+  "author": "https://github.com/rakshit1994",
   "license": "MIT",
   "dependencies": {
     "node-static": "~0.7.1",
