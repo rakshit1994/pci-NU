@@ -1,6 +1,6 @@
 ## NU-PCI
 
-PCI is a project for taking video conferencing and chat.
+PCI is a project for doing video conferencing and chat.
 
 
 
